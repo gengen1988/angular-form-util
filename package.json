@@ -1,0 +1,19 @@
+{
+  "name": "form-util",
+  "version": "1.0.0",
+  "description": "angular-form-util ================",
+  "main": "post.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gengen1988/angular-form-util.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gengen1988/angular-form-util/issues"
+  },
+  "homepage": "https://github.com/gengen1988/angular-form-util#readme"
+}
