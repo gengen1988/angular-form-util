@@ -18,3 +18,7 @@ function PostFactory() {
     form.submit();
   };
 }
+
+if (module) {
+  module.exports = '';
+}

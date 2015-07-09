@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/gengen1988/angular-form-util.git"
   },
-  "author": "",
+  "author": "GG",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gengen1988/angular-form-util/issues"
   },
-  "homepage": "https://github.com/gengen1988/angular-form-util#readme"
+  "homepage": "https://github.com/gengen1988/angular-form-util#readme",
+  "dependencies": {
+    "angular": "*"
+  }
 }
