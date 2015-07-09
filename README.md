@@ -6,7 +6,7 @@ Use AngularJs control form submit, with POST method and page forwarding.
 Installation
 -------
 ```bash
-bower install angular-form-util
+npm install git+https://github.com/gengen1988/angular-form-util.git
 ```
 
 Usage
