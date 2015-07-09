@@ -20,5 +20,5 @@ function PostFactory() {
 }
 
 if (module) {
-  module.exports = '';
+  module.exports = 'form-util';
 }
